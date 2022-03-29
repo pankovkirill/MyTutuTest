@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTutuTest</string>
+    <string name="empty_server_response_on_success">No data available</string>
+    <string name="dialog_message_device_is_offline">You can use the app without an internet connection. But please check the connection to update the data</string>
+    <string name="id">ID</string>
+    <string name="login">Login</string>
+    <string name="type">Type</string>
+</resources>
